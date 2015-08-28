@@ -1,39 +1,5 @@
 /* pong.c --- 
  * 
- * Filename: pong.c
- * Description: 
- * Author: Bryce Himebaugh
- * Maintainer: 
- * Created: Mon Aug 11 10:50:08 2014
- * Last-Updated: Wed Feb 26 2015
- *           By: Sebastian Kagemann
- *     Update #: 0
- * Keywords: 
- * Compatibility: 
- * 
- */
-
-/* Commentary: 
- * Code for Pong runtime.
- * 
- * 
- */
-
-/* Change log:
- * 
- * 
- */
-
-/* Copyright (c) 2004-2007 The Trustees of Indiana University and 
- * Indiana University Research and Technology Corporation.  
- * 
- * All rights reserved. 
- * 
- * Additional copyrights may follow 
- */
-
-/* Code: */
-
 #include "rect.h"
 #include "arrow.h"
 #include <stm32f30x.h>  // Pull in include files for F30x standard drivers 
